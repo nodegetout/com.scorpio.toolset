@@ -1,0 +1,8 @@
+{
+    "name": "com.scorpio.toolset",
+    "version": "0.0.1",
+    "displayName": "ScorpioToolset",
+    "description": "My toolset for unity3D development.",
+    "dependencies": {
+    }
+  }
